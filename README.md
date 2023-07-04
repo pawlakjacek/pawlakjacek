@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pawlakjacek
-- 🌱 I’m currently learning Swift
 - 📫 How to reach me pawlak_jacek@yahoo.com
 
 <!---
